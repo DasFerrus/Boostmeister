@@ -1,0 +1,55 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+h1{
+	font-family: Lobster;
+	font-size: 48px;
+	color: #261d12;
+}
+
+h2{
+	font-family: Lobster;
+	color: #E39255;
+}
+
+h3{
+	font-family: Raleway;
+	font-size: 20px;
+	font-weight: 100;
+	color: #261d12;
+}
+
+html{
+	max-width: 960px;
+}
+
+body{
+	width: 960px;
+	left: 50%;
+	margin-left: 20%;
+	background-color: #e5e1dc;
+}
+
+p{
+	font-family: Raleway;
+	color: #261d12;
+}
+
+#head{
+	width: 100%;
+	padding-left: 20px;
+	padding-bottom: 15px;
+	background: #E39255;
+}
+
+#lowerHead{
+	margin-top: -45px;
+	margin-bottom: -25px;
+}
+
+#content{
+	margin-top: 10px;
+	padding-left: 20px;
+}
+
